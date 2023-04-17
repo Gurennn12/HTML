@@ -1,0 +1,12 @@
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML link de classrom:</p>
+
+<a href="https://classroom.google.com/c/NTM2NjkzNDU3MjY5/a/NTM2NjkzNDU3NDQ0/details">This is a link</a>
+<p>HTML foto de diegocarlos:</p>
+<img src="https://i.pinimg.com/564x/38/2f/40/382f40ba33c1fe1d776e916b8e068ce0.jpg" alt="https://www.pinterest.es/pin/1081919510452371946/" width="104" height="142">
+
+</body>
+</html>
